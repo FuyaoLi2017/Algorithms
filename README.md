@@ -15,6 +15,9 @@ Windows下为GBK编码，javac编译utf-8编码的java文件时，容易出现�
 
 本文来自 不亦 的CSDN 博客 ，全文地址请点击：https://blog.csdn.net/Leytton/article/details/52740171?utm_source=copy
 
+## About code submission
+提交代码时候不要写main函数测试内容，否则会不能通过，影响评分
+
 ## Acknowledgement
 参考内容：
 https://github.com/huipengly/Algorithms-4th/
